@@ -1,0 +1,1 @@
+This practice project uses ListView.separated, Inkwell Widget
